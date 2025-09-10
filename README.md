@@ -46,4 +46,4 @@ The system supports two user roles (**Admin** and **Normal User**) with JWT auth
     python manage.py runserver
 
 ## API Documentation
-Access the API documentation at: `[http://](https://documenter.getpostman.com/view/31209169/2sB3HnM1Hh)`
+Access the API documentation at: `https://documenter.getpostman.com/view/31209169/2sB3HnM1Hh`
